@@ -1,8 +1,5 @@
 'use strict';
 
-import Router from './router.js';
-import Route from './Route.js';
-
 (function () {
     function init() {
         var router = new Router([
